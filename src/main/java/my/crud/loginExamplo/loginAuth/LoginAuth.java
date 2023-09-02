@@ -1,12 +1,10 @@
-package my.crud.domain.loginAuth;
+package my.crud.loginExamplo.loginAuth;
 
-import my.crud.entity.login.Usuario;
-import my.crud.repository.UsuarioRepository;
-import org.springframework.beans.factory.annotation.Autowired;
+import my.crud.loginExamplo.login.Usuario;
+import my.crud.loginExamplo.repository.UsuarioRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
-import java.util.Optional;
 
 @Service
 public class LoginAuth {

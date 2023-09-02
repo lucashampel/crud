@@ -1,7 +1,6 @@
-package my.crud.ws.loginAuth;
+package my.crud.loginExamplo.loginAuth;
 
-import my.crud.domain.loginAuth.LoginAuth;
-import my.crud.entity.login.Usuario;
+import my.crud.loginExamplo.login.Usuario;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

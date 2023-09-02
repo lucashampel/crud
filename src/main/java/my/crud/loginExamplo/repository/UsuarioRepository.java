@@ -1,6 +1,6 @@
-package my.crud.repository;
+package my.crud.loginExamplo.repository;
 
-import my.crud.entity.login.Usuario;
+import my.crud.loginExamplo.login.Usuario;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

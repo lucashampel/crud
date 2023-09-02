@@ -1,4 +1,4 @@
-package my.crud.entity.login;
+package my.crud.loginExamplo.login;
 
 import jakarta.persistence.*;
 import lombok.Data;
